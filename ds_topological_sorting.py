@@ -1,6 +1,6 @@
-# 20-2 Data Structure
-# Programming Report 2) 위상 정렬(Topological Sorting)
-# 1607057 정소진
+# 2020 Data Structure
+# 위상 정렬(Topological Sorting)
+# SojinLyuJeong
 
 # txt형식의 데이터 파일 불러오기
 def get_data():
