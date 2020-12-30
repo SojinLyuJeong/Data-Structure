@@ -192,4 +192,4 @@ for i in range(0, data[0]):                         # 결과 출력
     print('postfix notation = {}'.format(postfix[i]))
     print('value = {}'.format(value[i]))
     print('------------------------------------------------------------\n')
-# test
+# test 2
